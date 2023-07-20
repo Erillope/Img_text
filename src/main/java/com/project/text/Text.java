@@ -9,6 +9,7 @@ public class Text {
         ImageText image = new ImageText("imagenes//takagixd.png", 2, 1, "█", "a", " ");
         
         image.generarTexto("imagen_text.txt");
+        //Las imágenes se ingresan en la carpeta de imágenes y los textos se guardan en la carpeta txt
 
     }
 }
